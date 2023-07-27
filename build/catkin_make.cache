@@ -1,0 +1,2 @@
+battery_monitor:pubsub:turtlebot_control
+-DCATKIN_DEVEL_PREFIX=/home/eva/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eva/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/eva/catkin_ws/devel
+
+Name: pubsub
+Description: Description of pubsub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
